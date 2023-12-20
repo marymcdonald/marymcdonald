@@ -1,4 +1,4 @@
-###Hi, I’m Mary ✨
+### Hi, I’m Mary ✨
 
 I'm a software developer based in Montreal & Toronto, Canada. 🇨🇦
 
